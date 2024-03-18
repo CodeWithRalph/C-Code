@@ -1,0 +1,17 @@
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.csproj.AssemblyReference.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.Form1.resources
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.csproj.GenerateResource.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.AssemblyInfoInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.AssemblyInfo.cs
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.csproj.CoreCompileInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\bin\Debug\net6.0-windows\Chapter3.exe
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\bin\Debug\net6.0-windows\Chapter3.deps.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\bin\Debug\net6.0-windows\Chapter3.runtimeconfig.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\bin\Debug\net6.0-windows\Chapter3.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\bin\Debug\net6.0-windows\Chapter3.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\refint\Chapter3.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\Chapter3.genruntimeconfig.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\Chapter3\obj\Debug\net6.0-windows\ref\Chapter3.dll

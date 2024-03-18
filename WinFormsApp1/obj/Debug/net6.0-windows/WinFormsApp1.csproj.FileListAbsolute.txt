@@ -1,0 +1,17 @@
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
