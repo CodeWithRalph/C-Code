@@ -1,0 +1,15 @@
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\bin\Debug\net6.0\chapter8-exercise1.exe
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\bin\Debug\net6.0\chapter8-exercise1.deps.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\bin\Debug\net6.0\chapter8-exercise1.runtimeconfig.json
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\bin\Debug\net6.0\chapter8-exercise1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\bin\Debug\net6.0\chapter8-exercise1.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.csproj.AssemblyReference.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.AssemblyInfoInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.AssemblyInfo.cs
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.csproj.CoreCompileInputs.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\refint\chapter8-exercise1.dll
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.pdb
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\chapter8-exercise1.genruntimeconfig.cache
+C:\Users\s0542191\OneDrive - Lethbridge College\Documents\Year 1 Term 2\CIT-1156 Computer Programming II\C#Code\chapter8-exercise1\obj\Debug\net6.0\ref\chapter8-exercise1.dll
